@@ -8,7 +8,7 @@ import {
   AiOutlineMenu,
 } from "react-icons/ai";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import bd1Img from "../public/assets/BD-removebg-preview.png";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -40,12 +40,7 @@ const Navbar = () => {
     >
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/#home" scroll={false}>
-          <Image
-            src="/../public/assets/BD-removebg-preview.png"
-            alt="/"
-            width="80"
-            height="40"
-          />
+          <Image src={bd1Img} alt="/" width="80" height="40" />
         </Link>
 
         <div>
