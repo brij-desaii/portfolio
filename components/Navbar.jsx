@@ -86,12 +86,7 @@ const Navbar = () => {
           <div>
             <div className="flex w-full items-center justify-between">
               <Link href="/#home" scroll={false}>
-                <Image
-                  src="/../public/assets/BD-removebg-preview.png"
-                  width="87"
-                  height="35"
-                  alt="/"
-                />
+                <Image src={bd1Img} width="87" height="35" alt="/" />
               </Link>
 
               <div
