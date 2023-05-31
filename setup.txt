@@ -1,0 +1,9 @@
+npx create-next-app portfolio
+
+https://stackoverflow.com/questions/73964257/why-the-changes-made-in-a-page-isnt-taking-any-effect-in-nextjs
+
+1- Remove .next folder
+
+2- run npm run build
+
+3-now run npm run dev or npm run start
