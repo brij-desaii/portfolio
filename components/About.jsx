@@ -13,20 +13,21 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I am</h2>
           <p className="py-2 text-gray-600">
-            I'm pursuing my integrated Mtech in Computer Science at IIIT
-            Bangalore and am currently in the 3rd year. I'm passionate about
-            learning new technologies and understand there is more than one way
-            to accomplish a task. Though I am most proficient in building
-            front-end applications using HTML, CSS, Javascript, and React, I am
-            a quick learner and can pick up new tech stacks as needed. I believe
-            that being a great developer is not using one specific language, but
-            choosing the best tool for the job.
+            I&apos;m pursuing my integrated Mtech in Computer Science at IIIT
+            Bangalore and am currently in the 3rd year. I&apos;m passionate
+            about learning new technologies and understand there is more than
+            one way to accomplish a task. Though I am most proficient in
+            building front-end applications using HTML, CSS, Javascript, and
+            React, I am a quick learner and can pick up new tech stacks as
+            needed. I believe that being a great developer is not using one
+            specific language, but choosing the best tool for the job.
           </p>
           <p className="py-2 text-gray-600">
-            I'm an avid traveller and a trekker. I'm passionate about exploring
-            new places, meeting new people, and experiencing different cultures.
-            Whether it's hiking through mountains, trying new foods, or running
-            a marathon, I'm always up for a new adventure.
+            I&apos;m an avid traveller and a trekker. I&apos;m passionate about
+            exploring new places, meeting new people, and experiencing different
+            cultures. Whether it&apos;s hiking through mountains, trying new
+            foods, or running a marathon, I&apos;m always up for a new
+            adventure.
           </p>
           <Link href="/#projects" scroll={false}>
             <p className="py-2 text-gray-600 underline cursor-pointer">
